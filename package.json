@@ -1,5 +1,5 @@
 {
-  "name": "pure-syntax",
+  "name": "tedivm-pure-syntax",
   "theme": "syntax",
   "version": "0.3.0",
   "description": "A clear & colorful syntax theme for Atom.",
@@ -11,7 +11,7 @@
     "practical",
     "syntax"
   ],
-  "repository": "https://github.com/nkpfstr/pure-syntax",
+  "repository": "https://github.com/tedivm/pure-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
