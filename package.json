@@ -1,10 +1,11 @@
 {
-  "name": "tedivm-pure-syntax",
+  "name": "impure-syntax",
   "theme": "syntax",
   "version": "0.3.0",
   "description": "A clear & colorful syntax theme for Atom.",
   "keywords": [
     "pure",
+    "impure",
     "clear",
     "colorful",
     "dark",

@@ -1,19 +1,18 @@
+# Impure Syntax
 
-![Title](https://media.githubusercontent.com/media/polymoon/pure-syntax/master/art/title.png)
+![Example](https://i.imgur.com/BCr0VWE.png)
 
-![Example](https://media.githubusercontent.com/media/polymoon/pure-syntax/master/art/example.png)
-
-> The font used in the screenshot is [Office Code Pro](https://github.com/nathco/Office-Code-Pro).
+This is a variant of the [Pure Syntax](https://atom.io/packages/pure-syntax) project. The primary difference is that this theme uses a darking (less purple) background.
 
 # Install
 
 From the command line:
 
-`apm install pure-syntax`
+`apm install impure-syntax`
 
 If the command line isn't your thing:
 
 - Go to **Settings > Install**
-- Search for `pure-syntax` and click **Install**
+- Search for `impure-syntax` and click **Install**
 - Go to **Settings > Themes** and choose **Pure** from the dropdown menu
 - Happy coding! :heart:
