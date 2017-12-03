@@ -1,10 +1,8 @@
 # Impure Syntax
 
-This is a variant of the [Pure Syntax](https://atom.io/packages/pure-syntax) theme. It uses darker background colors and removes the purple tint.
+This is a variant of the [Pure Syntax](https://atom.io/packages/pure-syntax) theme. 
 
-![Example](https://i.imgur.com/BCr0VWE.png)
-
-*Above example using this syntax theme with the [dash ui theme](https://atom.io/themes/dash-ui).*
+![Example](https://i.imgur.com/L9UivYi.png)
 
 # Install
 
