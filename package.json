@@ -1,7 +1,7 @@
 {
   "name": "impure-syntax",
   "theme": "syntax",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "A clear & colorful syntax theme for Atom.",
   "keywords": [
     "pure",
