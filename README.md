@@ -1,8 +1,8 @@
 # Impure Syntax
 
-This is a variant of the [Pure Syntax](https://atom.io/packages/pure-syntax) theme. 
+This is a variant of the [Pure Syntax](https://atom.io/packages/pure-syntax) theme.
 
-![Example](https://i.imgur.com/L9UivYi.png)
+![Example](https://i.imgur.com/L3szA9q.png)
 
 # Install
 
